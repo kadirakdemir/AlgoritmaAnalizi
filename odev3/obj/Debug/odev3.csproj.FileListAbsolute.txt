@@ -1,0 +1,6 @@
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\bin\Debug\odev3.exe.config
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\bin\Debug\odev3.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\bin\Debug\odev3.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\obj\Debug\odev3.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\obj\Debug\odev3.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\odev3\obj\Debug\odev3.csprojResolveAssemblyReference.cache
