@@ -1,0 +1,6 @@
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\bin\Debug\insertionsort.exe.config
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\bin\Debug\insertionsort.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\bin\Debug\insertionsort.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\obj\Debug\insertionsort.csprojResolveAssemblyReference.cache
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\obj\Debug\insertionsort.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\insertionsort\obj\Debug\insertionsort.pdb
