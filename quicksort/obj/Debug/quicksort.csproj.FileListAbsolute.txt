@@ -1,0 +1,6 @@
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\bin\Debug\quicksort.exe.config
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\bin\Debug\quicksort.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\bin\Debug\quicksort.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\obj\Debug\quicksort.exe
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\obj\Debug\quicksort.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\odev1\quicksort\obj\Debug\quicksort.csprojResolveAssemblyReference.cache
