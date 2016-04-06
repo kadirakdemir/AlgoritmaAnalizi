@@ -1,0 +1,5 @@
+C:\Users\MK\Documents\Visual Studio 2015\Projects\odev1\Birler\bin\Debug\Birler.exe.config
+C:\Users\MK\Documents\Visual Studio 2015\Projects\odev1\Birler\bin\Debug\Birler.exe
+C:\Users\MK\Documents\Visual Studio 2015\Projects\odev1\Birler\bin\Debug\Birler.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\odev1\Birler\obj\Debug\Birler.exe
+C:\Users\MK\Documents\Visual Studio 2015\Projects\odev1\Birler\obj\Debug\Birler.pdb
