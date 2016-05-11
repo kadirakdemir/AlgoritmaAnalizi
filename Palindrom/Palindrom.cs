@@ -13,7 +13,7 @@ namespace Tersini_Bulma
 		
         public static char GetLetter()
         {           
-            int num = rnd.Next(0, 3); // Zero to 25
+            int num = rnd.Next(0, 5); // Zero to 25
             char let = (char)('a' + num);
             return let;
         }
@@ -48,7 +48,7 @@ namespace Tersini_Bulma
                     if (array[i,j]==array[i,k])
                     {
                         sayac++;
-                        if (sayac==4)
+                        if (sayac==s-1)
                         {
                             for (int d = 0; d < s; d++)
                             {                               
@@ -71,7 +71,7 @@ namespace Tersini_Bulma
                     if (array[y, w] == array[k, w])
                     {
                         sayac++;
-                        if (sayac == 4)
+                        if (sayac == s-1)
                         {
                             for (int d = 0; d < s; d++)
                             {
