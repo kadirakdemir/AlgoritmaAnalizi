@@ -1,0 +1,51 @@
+﻿@model Odev.Web.ViewModels.ExamViewModel
+@{
+    ViewBag.Title = "Exam";
+}
+<style type="text/css">
+    .altbaslik{
+        font-size:20px;
+        text-transform:capitalize;
+        color:gray;
+    }
+</style>
+
+<h2>Soru Ekranı</h2>
+<div class="content">
+    @using (Html.BeginForm("Exam", "Home", FormMethod.Post))
+    {
+        @Html.HiddenFor(x=>x.RandomUserViewModelId)
+        <div class="row">
+            <div class="form-group">
+                <div >
+                    <h3>Kullanıcı</h3>
+                </div>
+                <div class="altbaslik">
+                    @Html.DisplayFor(x => x.RandomUserName)
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <h3>Soru</h3>
+                </div>
+                <div class="altbaslik">
+                    @Html.DisplayFor(x => x.Question)
+                </div>
+            </div>
+            <div class="form-group">
+                <div >
+                    <h4>Cevap</h4>
+                </div>
+                <div>
+                    @Html.EditorFor(x => x.Answer,new {htmlAttributes = new { @class="form-control" } })
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <input type="submit" value="Kaydet" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
